@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @shubhamkhandal
-- 👀 I’m interested in javascript | React
-- 🌱 I’m always learning javascript concepts
-- 💞️ I’m looking to collaborate on any react | js
-- 📫 How to reach me : imshubhamkhandal@gmail.com
+- 👋 Hi, I’m shubhamkhandal
+- 👀 I’m interested in React & JavaScript.
+- 🌱 I’m always in learning mode.
+- 💞️ I collaborate on React & JavaScript.
+- 📫 you can reach me from here.
 
 <!---
 shubhamkhandal/shubhamkhandal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
